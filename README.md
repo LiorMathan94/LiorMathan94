@@ -11,6 +11,7 @@ I love writing clean and maintainable code. Find out more about me & feel free t
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
