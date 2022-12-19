@@ -14,7 +14,6 @@ I love writing clean and maintainable code. Find out more about me & feel free t
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
