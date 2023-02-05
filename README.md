@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Lior Mathan, currently a scholar of Start@[Google](https://www.google.com/) program. 
-I am an Image Processing Engineer and soon to be a Full-Stack Java developer. 
+I am Lior Mathan, a recent graduate of Start@[Google](https://www.google.com/) program. 
+I am a Backend Java Developer.
 I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LiorMathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lior-mathan-15b881146/)](https://www.linkedin.com/in/lior-mathan-15b881146/)
